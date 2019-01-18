@@ -14,7 +14,7 @@ A simple, interactive Markov Chain Monte Carlo introduction in Python.
 
 1. Clone the repository with 
 ```
-git clone https://github.com/bmorris3/gp_interact.git
+git clone https://github.com/bmorris3/mcmc_interact.git
 ```
 2. Change directories into the repo
 ```
