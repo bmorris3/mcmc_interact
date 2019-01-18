@@ -18,7 +18,7 @@ git clone https://github.com/bmorris3/gp_interact.git
 ```
 2. Change directories into the repo
 ```
-cd gp_interact
+cd mcmc_interact
 ```
 3. Make sure you have the required packages installed
 ```
